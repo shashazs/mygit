@@ -5,4 +5,6 @@ package com.xd.bean;
  * @create 2019-10-18 11:22
  */
 public class newclass {
+  
+  String name;
 }
